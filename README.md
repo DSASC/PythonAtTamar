@@ -1,17 +1,16 @@
-.center_align {
-  text-align:center;
-  width: 100%;
-  text-align-last:center;
-}
+<!DOCTYPE html>
 <html>
 <head>
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
 </head>
 <body>
-    <select class="form-control center_align">
-        <option value="0">   - Välj -</option>
-        <option value="1" selected="">   Kategorier valda</option>
-     </select>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
 </body>
 </html>
