@@ -1,7 +1,7 @@
-.center_align
-{
-  text-align: center;
+.center_align {
+  text-align:center;
   width: 100%;
+  text-align-last:center;
 }
 <html>
 <head>
