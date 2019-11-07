@@ -1,4 +1,8 @@
 # PythonAtTamar
 Python Course in Hebrew for Primary School Children
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vT2e46cAGI8QoJafvyiCyTr7eGrukyTR7_Jej3loPKg6ayUWEGIxx-mCYodWpMHVyWb_G5IHm9M5Orm/pub?embedded=true"></iframe>
+<object data="https://drive.google.com/open?id=1ewCiXucewKQI2vY89z9V_jtQtUAZPLs8" type="application/pdf" width="700px" height="700px">
+    <embed src="https://drive.google.com/open?id=1ewCiXucewKQI2vY89z9V_jtQtUAZPLs8">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
