@@ -1,1 +1,1 @@
-<div style="text-align: right"> ניסיון </div>
+This course is in hebrew, see docs [here]
